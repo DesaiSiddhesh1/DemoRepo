@@ -1,6 +1,6 @@
 public class Arith
   {
     psvm(){
-      System.out.println();
+      System.out.println("Added");
     }
   }
